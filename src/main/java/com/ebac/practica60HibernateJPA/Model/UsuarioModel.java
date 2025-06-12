@@ -1,7 +1,7 @@
-package com.ebac.modulo60HibernateJPA.Model;
+package com.ebac.practica60HibernateJPA.Model;
 
-import com.ebac.modulo60HibernateJPA.DTO.OperacionesCrud;
-import com.ebac.modulo60HibernateJPA.DTO.Usuario;
+import com.ebac.practica60HibernateJPA.DTO.OperacionesCrud;
+import com.ebac.practica60HibernateJPA.DTO.Usuario;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityTransaction;
 import jakarta.persistence.TypedQuery;

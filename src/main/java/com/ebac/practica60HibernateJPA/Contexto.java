@@ -1,11 +1,11 @@
-package com.ebac.modulo60HibernateJPA;
+package com.ebac.practica60HibernateJPA;
 
-import com.ebac.modulo60HibernateJPA.DTO.Direccion;
-import com.ebac.modulo60HibernateJPA.DTO.Telefono;
-import com.ebac.modulo60HibernateJPA.DTO.Usuario;
-import com.ebac.modulo60HibernateJPA.Model.DireccionModel;
-import com.ebac.modulo60HibernateJPA.Model.TelefonoModel;
-import com.ebac.modulo60HibernateJPA.Model.UsuarioModel;
+import com.ebac.practica60HibernateJPA.DTO.Direccion;
+import com.ebac.practica60HibernateJPA.DTO.Telefono;
+import com.ebac.practica60HibernateJPA.DTO.Usuario;
+import com.ebac.practica60HibernateJPA.Model.DireccionModel;
+import com.ebac.practica60HibernateJPA.Model.TelefonoModel;
+import com.ebac.practica60HibernateJPA.Model.UsuarioModel;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;

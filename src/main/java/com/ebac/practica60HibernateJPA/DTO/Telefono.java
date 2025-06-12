@@ -1,4 +1,4 @@
-package com.ebac.modulo60HibernateJPA.DTO;
+package com.ebac.practica60HibernateJPA.DTO;
 
 import jakarta.persistence.*;
 

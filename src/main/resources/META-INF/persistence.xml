@@ -6,9 +6,9 @@
              version="2.2">
     <persistence-unit name="conexionLocalMySQL" transaction-type="RESOURCE_LOCAL">
         <!--Entidades a mapear en la bd-->
-        <class>com.ebac.modulo60HibernateJPA.DTO.Usuario</class>
-        <class>com.ebac.modulo60HibernateJPA.DTO.Direccion</class>
-        <class>com.ebac.modulo60HibernateJPA.DTO.Telefono</class>
+        <class>com.ebac.practica60HibernateJPA.DTO.Usuario</class>
+        <class>com.ebac.practica60HibernateJPA.DTO.Direccion</class>
+        <class>com.ebac.practica60HibernateJPA.DTO.Telefono</class>
         <!-- Configuración de la Conexión -->
         <properties>
             <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/practica60"/>
